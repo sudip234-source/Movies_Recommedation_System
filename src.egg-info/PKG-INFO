@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small example package for movie recommendation
+Author: SUDIP
+Author-email: codex.tagc@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# My Project
+Movies recommender system
